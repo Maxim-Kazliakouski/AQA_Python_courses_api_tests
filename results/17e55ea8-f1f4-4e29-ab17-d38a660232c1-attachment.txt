@@ -1,5 +1,0 @@
-
-name: Alex
-job: Dev
-id: 217
-createdAt: 2022-02-01T21:34:00.086Z

@@ -1,3 +1,0 @@
-
-error: Missing email or username
-Ending tests...
