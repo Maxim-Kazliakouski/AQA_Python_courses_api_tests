@@ -1,0 +1,7 @@
+
+Clearing results folder...
+
+name: Max
+job: Tester
+id: 333
+createdAt: 2022-02-01T21:28:42.281Z
