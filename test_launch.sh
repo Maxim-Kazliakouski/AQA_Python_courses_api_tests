@@ -1,5 +1,4 @@
 #!/bin/bash
-# pytest tests_api > result.txt
 echo -e 'Script for startign api tests and generating report\n'
 if [ -f result.txt ]
 then
